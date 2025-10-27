@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+< FLASHFIXTECH SOLUTIONS html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -203,3 +203,4 @@
   </script>
 </body>
 </html>
+update index 
